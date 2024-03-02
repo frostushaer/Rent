@@ -1,0 +1,20 @@
+to connect SMTP from your gmail
+1. enable 2-step verificaation
+2. add login from app
+3. add app name and paste the given password
+
+for image storage we have use cloudinary (frost4care@gmail.com)
+config.env file for this project --> 
+PORT=4000
+MONGO_URI="mongodb://localhost:27017/rent"
+MONGO_URI="mongodb+srv://frost4care:123Rishi@cluster0.oxedjlq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+OTP_EXPIRE=5
+SMTP_HOST="smtp.gmail.com"
+SMTP_PORT=465
+SMTP_USER="frost4care@gmail.com"
+SMTP_PASS="wlwxfejyyxqvyevh"
+JWT_COOKIE_EXPIRE=10
+JWT_SECRET="hbiu8gyu8y7t6ttfrc3sess@rdrd6d6tf"
+CLOUD_NAME="dez0siefj"
+CLOUD_API_KEY="352916251746418"
+CLOUD_API_SECRET="8tkc_g-IgWaa8HLupFWZSSFXExw"
